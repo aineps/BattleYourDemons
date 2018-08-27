@@ -1,0 +1,21 @@
+<div id="timer">
+  <p><img src="https://s5.postimg.cc/o5b5oii3r/clutterbutterfly.png"></p>
+  <h1>
+    Clutter Butterfly
+  </h1>
+  <p>
+    Clean for 10 minutes to defeat the Clutter Butterfly!
+  </p>
+  <input type="button" value="Start Battle!" id="first" data-delay="600">
+</div>
+
+<div id="check">
+  <p><img src="https://s5.postimg.cc/o5b5oii3r/clutterbutterfly.png"></p>
+  <h1>
+    Sand pits
+  </h1>
+  <p>
+    Drink 6 glasses of water!
+  </p>
+  <input type="button" value="Start Battle!" id="second">
+</div>
